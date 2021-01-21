@@ -1,5 +1,8 @@
-name: 'UX Improvement Recommendation Tool'
-description: 'Recommendation tool for improvement of user experience of the web'
+name: 'UX Reporter'
+description: 'A user experience reporter action.'
+branding:
+  icon: user-check
+  color: blue
 inputs:
   urls:
     description: 'urls of the page'
