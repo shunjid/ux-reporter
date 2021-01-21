@@ -1,5 +1,8 @@
 <div align="center"> 
-  <img height="250" src="assets/banner.png"/>
+  <img height="350" src="assets/banner.png"/>
+
+  ![ux-reporter](https://img.shields.io/github/workflow/status/shunjid/ux-reporter/ux-reporter?color=00c853&labelColor=212121&label=ux_reporter&logo=github&logoColor=ffffff)
+  ![releases](https://img.shields.io/github/v/release/shunjid/ux-reporter?color=3d5afe&label=version&labelColor=212121&logo=github%20actions&logoColor=ffffff)
 </div>
 
 # UX Reporter
