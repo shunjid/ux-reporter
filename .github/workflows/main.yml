@@ -1,3 +1,4 @@
+name: ux-reporter
 on: [push]
 
 jobs:
