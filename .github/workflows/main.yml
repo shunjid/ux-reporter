@@ -1,0 +1,18 @@
+on: [push]
+
+jobs:
+  test_impact:
+    runs-on: ubuntu-latest
+    name: A job to test impact
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Test impact action step
+        uses: ./
+        env:
+          GC_TOKEN: ${{ secrets.GC_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        id: urls
+        with:
+          urls: 'https://evaly.com.bd,https://www.pickaboo.com'
+          splitter: ','

@@ -1,0 +1,14 @@
+name: 'UX Improvement Recommendation Tool'
+description: 'Recommendation tool for improvement of user experience of the web'
+inputs:
+  urls:
+    description: 'urls of the page'
+    required: true
+    default: 'https://shunjid.github.io,https://teamtigers.tech'
+  splitter:
+    description: 'splitter to split urls from string'
+    required: true
+    default: ','
+runs:
+  using: 'node12'
+  main: 'production.js'
