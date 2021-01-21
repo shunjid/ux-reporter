@@ -38,3 +38,8 @@ jobs:
           urls: 'https://shunjid.github.io,https://diu.edu.bd'
           splitter: ','
 ```
+
+## Output/Report
+
+After successful completion, you can check report in a form of GitHub issue like below:
+![output](assets/output.gif)
