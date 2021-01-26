@@ -147,7 +147,7 @@ const toTable = all => {
         if (score < 4300) {
             url_md += `
             <h4>Cheers 🎉🎉 ${url} is already serving the best user experience.</h4>
-            <p><img src="https://i.imgur.com/1ImkdfY.jpg" height="220" alt="gif" /></p>    
+            <p><img src="https://i.gifer.com/VEK0.gif" height="250" alt="gif" /></p>    
         `
         }
 
