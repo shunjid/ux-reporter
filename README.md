@@ -41,5 +41,7 @@ jobs:
 
 ## Output/Report
 
+
 After successful completion, you can check report in a form of GitHub issue like below:
-![output](assets/output.gif)
+![output](https://user-images.githubusercontent.com/29749035/134134861-c3e3437a-6302-41e1-a3c9-c3b34f90f647.png)
+
